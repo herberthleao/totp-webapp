@@ -2,7 +2,7 @@
     import Timer from '$lib/components/Timer.svelte'
     import { onMount } from 'svelte'
 
-    let secretKey = ''
+    let secretKey = 'JBSWY3DPEHPK3PXP'
 
     const codeFallback = '--- ---'
     let code = codeFallback
